@@ -1,8 +1,8 @@
 <?php
-$servername = "localhost";
-$username = "root";  // Ganti dengan username database Anda
-$password = "";      // Ganti dengan password database Anda
-$dbname = "datadesa";
+$servername = "sql112.infinityfree.com";
+$username = "if0_37799516";  // Ganti dengan username database Anda
+$password = "woClAA0U8j";      // Ganti dengan password database Anda
+$dbname = "if0_37799516_datadesa";
 
 // Membuat koneksi
 $conn = new mysqli($servername, $username, $password, $dbname);
